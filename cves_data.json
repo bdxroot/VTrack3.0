@@ -1,0 +1,10 @@
+[
+    {
+        "command": "python test.py -u /TARGET/ -c /CMD/ -t /AUTO/",
+        "date": "09-11-2025",
+        "file_name": "test.py",
+        "file_path": "cves\\test.py",
+        "source": "file",
+        "added_at": "2025-11-09T13:58:14.261861"
+    }
+]
